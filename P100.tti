@@ -1,0 +1,19 @@
+DE,Tekst-tv eksempel-side
+PS,8100
+PN,10001
+SC,0001
+RE,0
+OL,1,R|d tekst:Aabc                          
+OL,2,R|d grafik:Q9 p,#p|                    
+OL,4,Gr|n test:Babc                          
+OL,5,Bl} tekst:Dabc                          
+OL,6,Cyan tekst:Fabc                         
+OL,7,Magenta tekst:Eabc                      
+OL,8,Gul tekst:Cabc                          
+OL,10,Blinkende:HblinkU9 p,#p|               
+OL,12,Dobbelt h|jde:MAabcR9 p,#p|            
+OL,15,Farvet baggrund:Q]GHvid tekst p} r|d    
+OL,17,40 tegn per linje                       
+OL,18,24 linjer                               
+OL,19,8 farver:ARBGDBFCEMCYGW (sort baggrund) 
+OL,21,Skjult tekst:Xafsl|ret                  
