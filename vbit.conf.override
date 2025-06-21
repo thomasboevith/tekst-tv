@@ -1,1 +1,1 @@
-header_template=TEKST-TV %%# %%a %e %%bC%H:%M:%S
+header_template=TEKST-TV %%# %%a %e %%b %H:%M:%S
