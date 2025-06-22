@@ -1,19 +1,27 @@
-DE,Tekst-tv eksempel-side
+DE,
 PS,8100
 PN,10001
 SC,0001
 RE,0
-OL,1,GR|d tekst:Aabc                         
-OL,2,GR|d grafik:Q9 p,#p|                   
-OL,4,GGr|n test:Babc                         
-OL,5,GBl} tekst:Dabc                         
-OL,6,GCyan tekst:Fabc                        
-OL,7,GMagenta tekst:Eabc                     
-OL,8,GGul tekst:Cabc                         
-OL,10,GBlinkende:HblinkU9 p,#p|              
-OL,12,GDobbelt h|jde:MAabcR9 p,#p|           
-OL,15,GFarvet baggrund:Q]GHvid tekst p} r|d   
-OL,17,G40 tegn per linje                      
-OL,18,G24 linjer                              
-OL,19,G8 farver:ARBGDBFCEMCYGW (sort baggrund)
-OL,21,GSkjult tekst:Xafsl|ret                 
+OL,27,@@@A@@@B@A@@@@@AH@D@EAH@@OOAH@@OOAH@@O@@
+OL,28,@@D|gpCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,1,W,l"p0( W2 `0 $ !hlp"ATekst-tv, et medie
+OL,2,W5?35g?c5{<nbwkkhgj*{ Bfra fortiden -W" 
+OL,3,Wu}ruuwymy'+v>v~{vzzr5!Dfor fremtiden!W$
+OL,4,CDet skerW0! $  0 ` (  "  $ " `  $ ` " `
+OL,5,GMClassic Tetris European Championship  
+OL,7,A 14-16. november 2025                  
+OL,8,E https://classictetris.org             
+OL,10,BNYT P] TTV.....G101FRUBEN og BOBBY.G700
+OL,11,BINDHOLD A-]....G102FBIP BIP BAR....G720
+OL,12,BNYHEDER........G110FNINTENDOPUSHERNG740
+OL,13,BDET SKER.......G200F...............G750
+OL,14,BENGLISH PAGES..G300F...............G780
+OL,15,B...............G400F...............G790
+OL,17,AKUNST og KULTURG500CTEKNIK.........G800
+OL,18,ATTV I M\RKET...G510COM DISSE SIDER.G850
+OL,19,ATTV-F[LLESKAB..G520C...............G860
+OL,20,ASPIL...........G530C...............G870
+OL,21,A...............G540C...............G880
+OL,23,W]DTekst-tv i m|rket,Aen udstillingES510
+OL,24,AFORSIDE  BINDHOLD  S  DET SKER    VOM  
